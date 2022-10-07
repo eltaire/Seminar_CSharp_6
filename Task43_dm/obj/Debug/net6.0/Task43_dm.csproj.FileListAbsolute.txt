@@ -1,0 +1,15 @@
+/Users/user_1/Desktop/Seminar_CSharp_06/Task43_dm/bin/Debug/net6.0/Task43_dm
+/Users/user_1/Desktop/Seminar_CSharp_06/Task43_dm/bin/Debug/net6.0/Task43_dm.deps.json
+/Users/user_1/Desktop/Seminar_CSharp_06/Task43_dm/bin/Debug/net6.0/Task43_dm.runtimeconfig.json
+/Users/user_1/Desktop/Seminar_CSharp_06/Task43_dm/bin/Debug/net6.0/Task43_dm.dll
+/Users/user_1/Desktop/Seminar_CSharp_06/Task43_dm/bin/Debug/net6.0/Task43_dm.pdb
+/Users/user_1/Desktop/Seminar_CSharp_06/Task43_dm/obj/Debug/net6.0/Task43_dm.csproj.AssemblyReference.cache
+/Users/user_1/Desktop/Seminar_CSharp_06/Task43_dm/obj/Debug/net6.0/Task43_dm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user_1/Desktop/Seminar_CSharp_06/Task43_dm/obj/Debug/net6.0/Task43_dm.AssemblyInfoInputs.cache
+/Users/user_1/Desktop/Seminar_CSharp_06/Task43_dm/obj/Debug/net6.0/Task43_dm.AssemblyInfo.cs
+/Users/user_1/Desktop/Seminar_CSharp_06/Task43_dm/obj/Debug/net6.0/Task43_dm.csproj.CoreCompileInputs.cache
+/Users/user_1/Desktop/Seminar_CSharp_06/Task43_dm/obj/Debug/net6.0/Task43_dm.dll
+/Users/user_1/Desktop/Seminar_CSharp_06/Task43_dm/obj/Debug/net6.0/refint/Task43_dm.dll
+/Users/user_1/Desktop/Seminar_CSharp_06/Task43_dm/obj/Debug/net6.0/Task43_dm.pdb
+/Users/user_1/Desktop/Seminar_CSharp_06/Task43_dm/obj/Debug/net6.0/Task43_dm.genruntimeconfig.cache
+/Users/user_1/Desktop/Seminar_CSharp_06/Task43_dm/obj/Debug/net6.0/ref/Task43_dm.dll

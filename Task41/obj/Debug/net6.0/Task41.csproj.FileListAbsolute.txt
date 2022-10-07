@@ -1,0 +1,15 @@
+/Users/user_1/Desktop/Seminar_CSharp_06/Task41/bin/Debug/net6.0/Task41
+/Users/user_1/Desktop/Seminar_CSharp_06/Task41/bin/Debug/net6.0/Task41.deps.json
+/Users/user_1/Desktop/Seminar_CSharp_06/Task41/bin/Debug/net6.0/Task41.runtimeconfig.json
+/Users/user_1/Desktop/Seminar_CSharp_06/Task41/bin/Debug/net6.0/Task41.dll
+/Users/user_1/Desktop/Seminar_CSharp_06/Task41/bin/Debug/net6.0/Task41.pdb
+/Users/user_1/Desktop/Seminar_CSharp_06/Task41/obj/Debug/net6.0/Task41.csproj.AssemblyReference.cache
+/Users/user_1/Desktop/Seminar_CSharp_06/Task41/obj/Debug/net6.0/Task41.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user_1/Desktop/Seminar_CSharp_06/Task41/obj/Debug/net6.0/Task41.AssemblyInfoInputs.cache
+/Users/user_1/Desktop/Seminar_CSharp_06/Task41/obj/Debug/net6.0/Task41.AssemblyInfo.cs
+/Users/user_1/Desktop/Seminar_CSharp_06/Task41/obj/Debug/net6.0/Task41.csproj.CoreCompileInputs.cache
+/Users/user_1/Desktop/Seminar_CSharp_06/Task41/obj/Debug/net6.0/Task41.dll
+/Users/user_1/Desktop/Seminar_CSharp_06/Task41/obj/Debug/net6.0/refint/Task41.dll
+/Users/user_1/Desktop/Seminar_CSharp_06/Task41/obj/Debug/net6.0/Task41.pdb
+/Users/user_1/Desktop/Seminar_CSharp_06/Task41/obj/Debug/net6.0/Task41.genruntimeconfig.cache
+/Users/user_1/Desktop/Seminar_CSharp_06/Task41/obj/Debug/net6.0/ref/Task41.dll
